@@ -1,33 +1,26 @@
 # CSC 3109 Brain Tumor Classification
 
+Team 19:
+
+- Woon Jun Wei (2200624)
+- Benjamin Loh Choon How (2201590)
+- Low Hong Sheng Jovian (2203654)
+- Ong Zi Xuan Max (2200717)
+- Cleon Tay Shi Hong (2200649)
+
 ## Introduction
-This project is about classifying brain tumors using machine learning.
+This project is about classifying brain tumors using deep learning.
 
 ## Folder Structure
-- `data/` - Contains the dataset
 - `notebooks/` - Contains the Jupyter notebooks
-- `models/` - Contains the trained models
 
 ## Dataset
-The dataset is not included in this repository, but its folder structure should be as follows:
-
-- `data/`
-  - `dataset_19/`
-      - `glioma/`
-      - `meningioma/`
-      - `notumor/`
-      - `pituitary/`
-
-## Models
-The trained models will be saved in the `models/` folder.
-
-- `models/`
-    - `unet_brain_mri.keras`
-    - other models...
+The dataset is not included in this repository. Upload the dataset (`dataset_19.zip`) to Google Colab according to the notebooks
 
 ## Notebooks
 The Jupyter notebooks will be saved in the `notebooks/` folder.
 
 - `notebooks/`
+    - `Attempts/` - Archived Notebooks of the previous Attempts
     - `unet.ipynb`
     - other notebooks...
